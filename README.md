@@ -1,8 +1,8 @@
-## Exercice du chiffrement de César par [MENGA Tamuzo Jonathan]()
+## Exercice du chiffrement de César par [MENGA Tamuzo Jonathan](https://github.com/Tamuzo77)
+### Voir les autres branches pour retrouver d'autres algorithmes de chiffrement: (affine, de Vigenere, de Vernam)
+Le programme se lance dans le fichier [app.py](app.py).
 
-Le programme se lance dans le fichier [app.py]().
-
-Les fonctions de chiffrement et de déchiffrement sont écrits dans le fichier [cesarchiff.py]()
+Les fonctions de chiffrement et de déchiffrement sont écrits dans le fichier [cesarchiff.py](cesarchiff.py)
 
 Au lancement du programme vous avez la possibilité d'entrer la commande "help"
 
